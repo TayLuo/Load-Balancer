@@ -1,7 +1,7 @@
 # Load-Balancer
 This guide provides step-by-step instructions for setting up two Linux virtual machines (VMs) as web servers on Google Cloud Platform (GCP) and configuring a load balancer to distribute traffic between them. By the end of this tutorial, you will have a fully functional load-balanced web server environment.
 
-https://private-user-images.githubusercontent.com/104034830/430786406-e05fa357-1ba4-4f8e-b61a-70d244d9abdf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQwMDEyNDUsIm5iZiI6MTc0NDAwMDk0NSwicGF0aCI6Ii8xMDQwMzQ4MzAvNDMwNzg2NDA2LWUwNWZhMzU3LTFiYTQtNGY4ZS1iNjFhLTcwZDI0NGQ5YWJkZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwN1QwNDQyMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYzQ0YjAzN2VjZjBmNDY5ODM0ZjQ3OWVkN2Q4OGE5ODlkZGNhMjQxYzMzNTQ0ZTRmOTFkNmEzM2Q3YWE1MDlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.97BkBRPDZlIkiS6SNljCxSSXH--2UXUjwL1rmMu34c8
+![Image](https://github.com/user-attachments/assets/8daeae4f-c711-45dd-a045-968351d3ecdc)
 
 
 Please refer the the documentaion page for the walk through. 
