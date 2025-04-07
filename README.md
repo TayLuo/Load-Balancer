@@ -4,4 +4,4 @@ Here is the workflow of the load balancer:
 ![Image](https://github.com/user-attachments/assets/8daeae4f-c711-45dd-a045-968351d3ecdc)
 
 
-Please refer the the documentaion page for the walk through. 
+Please refer the the documentaion page "Load Balancer on GCP.docx"for the walk through. 
